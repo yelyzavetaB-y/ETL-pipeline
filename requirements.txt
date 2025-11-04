@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+notion-client
+scikit-learn
+textblob
+matplotlib
+
